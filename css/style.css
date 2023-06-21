@@ -76,3 +76,8 @@ main {
     width: 100%;
     transform: scale(0.5);
 }
+@media screen and (max-width: 767px) {
+    .card{
+        width: 350px;
+    }
+}
